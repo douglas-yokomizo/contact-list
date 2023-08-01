@@ -10,6 +10,7 @@ const App = () => {
         <li>Joao da Silva <button>Editar</button> <button>Excluir</button></li>
         <li>Joao da Silva <button>Editar</button> <button>Excluir</button></li>
         <li>Joao da Silva <button>Editar</button> <button>Excluir</button></li>
+        <li>Joao da Silva <button>Editar</button> <button>Excluir</button></li>
       </ul>
     </>
   )
