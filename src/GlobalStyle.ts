@@ -13,5 +13,6 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Roboto, sans-serif;
+  width:100vw;
 }
 `
