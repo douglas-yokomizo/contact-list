@@ -17,13 +17,17 @@ export const Modal = styled.div`
   top: 50%;
   left: 50%;
   border-radius: 20px;
-  display:flex;
-  flex-direction: column;
   gap: 16px;
 
   h2{
     top: 0%;
     margin-bottom: 0px;
+  }
+
+  form {
+    display:flex;
+    flex-direction: column;
+
   }
 
   input {
